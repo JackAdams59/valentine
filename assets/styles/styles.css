@@ -1,0 +1,89 @@
+body {
+    background: linear-gradient(
+          #ffa1abcc, 
+          rgba(219,2,23,.8)
+        ),
+    url('../images/heart-bg.png');
+    font-family: trebuchet ms;
+    line-height: 130%;
+    }
+    
+    
+img {
+    width: 200px;
+    
+}
+
+section {
+
+    background-color: rgb(255, 197, 197);
+    margin-inline: 10%;
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(152, 7, 7);
+    border-width: 5px;
+    border-color: rgb(152, 7, 7);
+    border-style: dotted;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Lucida Grande';
+    margin: 0px;
+    line-height: 1.1;
+}
+
+
+em {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Lucida Grande';
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: pink;
+}
+
+form {
+    background-color: rgb(78, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 80px 10px 10px 10px;
+    padding: 10px;
+}
+
+legend {
+    font-size: 24px;
+}
+
+fieldset {
+    border-style: dotted;
+    border-color: white;
+}
+
+input[type="radio"] {
+    height: 20px;
+    width: 20px;
+    accent-color: rgb(69, 0, 0);
+}
+
+label {
+    margin-right: 20px; 
+}
+
+button {
+font-size: 20px;
+background-color: rgb(255, 199, 199);
+color: rgb(85, 4, 4);
+border: none;
+border-radius: 5px;
+padding: 10px 80px;
+margin: 20px;
+font-weight: bold;
+
+}
